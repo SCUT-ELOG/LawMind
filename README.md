@@ -10,7 +10,8 @@ Automated discovery of closed-form analytical solutions to partial differential 
 
 1. Clone repository
 ```
-git clone https://github.com/[YourGitHubUsername]/LawMind-1.0.git
+git clone https://github.com/SCUT-ELOG/LawMind.git
+
 cd LawMind
 ```
 
@@ -40,10 +41,10 @@ python main.py -a true
 If you use LawMind in your research or academic publications, please cite this project as follows:
 ```
 @software{LawMind,
-  author = {[Min-Yi Zheng, Shengqi Zhang, LianCheng Wu,  Jinghui Zhong, Shiyi Chen, Yew-Soon Ong]},
+  author = {[Min-Yi Zheng, Shengqi Zhang, LianCheng Wu, Jinghui Zhong, Shiyi Chen, Yew-Soon Ong]},
   title = {LawMind 1.0: A Law-Driven Framework for Autonomous Discovery of PDE Solutions},
   year = {2026},
-  url = {https://github.com/[YourGitHubUsername]/LawMind-1.0},
+  url = {https://github.com/SCUT-ELOG/LawMind},
   version = {1.0}
 }
 ```
